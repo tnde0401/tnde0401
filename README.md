@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Trần Ngọc Dễ, also known as Easy
-- 🎓 I’m a student at Vietnam National University Ho Chi Minh City — University of Science
+- 🎓 I’m a student at Vietnam National University Ho Chi Minh City - University of Science
 - 📚 My major is Data Science
 - 📫 How to reach me: You can email me at tranngocde0401@gmail.com
 - 👀 I’m interested in music and movies
